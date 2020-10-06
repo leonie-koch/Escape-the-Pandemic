@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: e6cfeff43f9f8d34b88b0b612909ac29
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: be_office_f_marketing_head01
+    100002: be_office_f_marketing_l_hand01
+    100004: be_office_f_marketing_l_toes01
+    100006: be_office_f_marketing_r_hand01
+    100008: be_office_f_marketing_r_toes01
+    100010: bind_office_f_marketing_head01
+    100012: bind_office_f_marketing_hips01
+    100014: bind_office_f_marketing_l_calf01
+    100016: bind_office_f_marketing_l_foot01
+    100018: bind_office_f_marketing_l_forearm01
+    100020: bind_office_f_marketing_l_shoulder01
+    100022: bind_office_f_marketing_l_thigh01
+    100024: bind_office_f_marketing_l_upperarm01
+    100026: bind_office_f_marketing_neck01
+    100028: bind_office_f_marketing_r_calf01
+    100030: bind_office_f_marketing_r_foot01
+    100032: bind_office_f_marketing_r_forearm01
+    100034: bind_office_f_marketing_r_shoulder01
+    100036: bind_office_f_marketing_r_thigh01
+    100038: bind_office_f_marketing_r_upperarm01
+    100040: bind_office_f_marketing_spine_a01
+    100042: bind_office_f_marketing_spine_b01
+    100044: bind_office_f_marketing_spine_c01
+    100046: mesh_office_f_marketing01
+    100048: //RootNode
+    400000: be_office_f_marketing_head01
+    400002: be_office_f_marketing_l_hand01
+    400004: be_office_f_marketing_l_toes01
+    400006: be_office_f_marketing_r_hand01
+    400008: be_office_f_marketing_r_toes01
+    400010: bind_office_f_marketing_head01
+    400012: bind_office_f_marketing_hips01
+    400014: bind_office_f_marketing_l_calf01
+    400016: bind_office_f_marketing_l_foot01
+    400018: bind_office_f_marketing_l_forearm01
+    400020: bind_office_f_marketing_l_shoulder01
+    400022: bind_office_f_marketing_l_thigh01
+    400024: bind_office_f_marketing_l_upperarm01
+    400026: bind_office_f_marketing_neck01
+    400028: bind_office_f_marketing_r_calf01
+    400030: bind_office_f_marketing_r_foot01
+    400032: bind_office_f_marketing_r_forearm01
+    400034: bind_office_f_marketing_r_shoulder01
+    400036: bind_office_f_marketing_r_thigh01
+    400038: bind_office_f_marketing_r_upperarm01
+    400040: bind_office_f_marketing_spine_a01
+    400042: bind_office_f_marketing_spine_b01
+    400044: bind_office_f_marketing_spine_c01
+    400046: //RootNode
+    400048: mesh_office_f_marketing01
+    2100000: character1
+    4300000: mesh_office_f_marketing01
+    9500000: //RootNode
+    13700000: mesh_office_f_marketing01
+    2186277476908879412: ImportLogs
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3.75
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: bind_office_f_marketing_hips01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_l_thigh01
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_r_thigh01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_l_calf01
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_r_calf01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_l_foot01
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_r_foot01
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_spine_a01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_spine_b01
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_neck01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_head01
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_l_shoulder01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_r_shoulder01
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_l_upperarm01
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_r_upperarm01
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_l_forearm01
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_r_forearm01
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_marketing_l_hand01
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_marketing_r_hand01
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_marketing_spine_c01
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mesh_office_f_marketing01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_office_f_marketing01
+      parentName: mesh_office_f_marketing01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_hips01
+      parentName: mesh_office_f_marketing01(Clone)
+      position: {x: -0, y: 1.4043648, z: 0.040355816}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_l_thigh01
+      parentName: bind_office_f_marketing_hips01
+      position: {x: -0.1507302, y: -0.037358236, z: -0.0030579418}
+      rotation: {x: -0.000010783341, y: 0.033039156, z: 0.999454, w: 0.00032620245}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_l_calf01
+      parentName: bind_office_f_marketing_l_thigh01
+      position: {x: -0, y: 0.6465131, z: 0}
+      rotation: {x: -0.073578686, y: -0.000079209094, z: 0.0010736038, w: 0.9972889}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_l_foot01
+      parentName: bind_office_f_marketing_l_calf01
+      position: {x: -0, y: 0.6403761, z: 8.326672e-18}
+      rotation: {x: 0.49616435, y: 0.0031477604, z: -0.0017988579, w: 0.8682211}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_marketing_l_toes01
+      parentName: bind_office_f_marketing_l_foot01
+      position: {x: -0, y: 0.18009387, z: 0.031201407}
+      rotation: {x: 0.3045547, y: -0.007567449, z: 0.002419732, w: 0.9524617}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_r_thigh01
+      parentName: bind_office_f_marketing_hips01
+      position: {x: 0.1507302, y: -0.037358236, z: -0.0038006678}
+      rotation: {x: 0.000011063482, y: 0.0339014, z: 0.9994251, w: -0.0003261553}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_r_calf01
+      parentName: bind_office_f_marketing_r_thigh01
+      position: {x: 3.330669e-17, y: 0.64658797, z: -1.6653344e-17}
+      rotation: {x: -0.072204925, y: 0.00007772476, z: -0.0010736365, w: 0.99738926}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_r_foot01
+      parentName: bind_office_f_marketing_r_calf01
+      position: {x: -0, y: 0.6401491, z: 4.163336e-18}
+      rotation: {x: 0.49131936, y: -0.003209209, z: 0.0018103303, w: 0.87097174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_marketing_r_toes01
+      parentName: bind_office_f_marketing_r_foot01
+      position: {x: -0, y: 0.17888293, z: 0.031671684}
+      rotation: {x: 0.30770656, y: 0.007572553, z: -0.0024490296, w: 0.951448}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_spine_a01
+      parentName: bind_office_f_marketing_hips01
+      position: {x: -0, y: 0.0683258, z: -0.0048204614}
+      rotation: {x: -0.035209987, y: 0, z: -0, w: 0.99938}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_spine_b01
+      parentName: bind_office_f_marketing_spine_a01
+      position: {x: -0, y: 0.07991139, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_spine_c01
+      parentName: bind_office_f_marketing_spine_b01
+      position: {x: -0, y: 0.09132756, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_l_shoulder01
+      parentName: bind_office_f_marketing_spine_c01
+      position: {x: -0.076768026, y: 0.09190335, z: -0.00077456195}
+      rotation: {x: 0.5309936, y: -0.46618843, z: 0.5363732, w: 0.46153873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_l_upperarm01
+      parentName: bind_office_f_marketing_l_shoulder01
+      position: {x: -0, y: 0.15532486, z: 2.664535e-16}
+      rotation: {x: -0.046818066, y: -0.09996166, z: 0.0032169812, w: 0.99388397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_l_forearm01
+      parentName: bind_office_f_marketing_l_upperarm01
+      position: {x: -3.330669e-17, y: 0.52144617, z: 2.664535e-16}
+      rotation: {x: -0.016920287, y: 0.0021104068, z: -0.03750861, w: 0.9991509}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_marketing_l_hand01
+      parentName: bind_office_f_marketing_l_forearm01
+      position: {x: -0, y: 0.50083685, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_neck01
+      parentName: bind_office_f_marketing_spine_c01
+      position: {x: -0, y: 0.102743305, z: -0.0000000074324746}
+      rotation: {x: 0.035209928, y: -0, z: -0, w: 0.99938}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_head01
+      parentName: bind_office_f_marketing_neck01
+      position: {x: -0, y: 0.026249027, z: 0.0015504118}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_marketing_head01
+      parentName: bind_office_f_marketing_head01
+      position: {x: -0, y: 0.46786895, z: 0.027634911}
+      rotation: {x: 6.617445e-24, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_r_shoulder01
+      parentName: bind_office_f_marketing_spine_c01
+      position: {x: 0.076768026, y: 0.09190197, z: -0.0007550917}
+      rotation: {x: -0.53106564, y: -0.46612534, z: 0.5363101, w: -0.46159297}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_r_upperarm01
+      parentName: bind_office_f_marketing_r_shoulder01
+      position: {x: -0, y: 0.15532486, z: 0}
+      rotation: {x: -0.0467677, y: 0.10210658, z: -0.004622071, w: 0.99366283}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_marketing_r_forearm01
+      parentName: bind_office_f_marketing_r_upperarm01
+      position: {x: -0, y: 0.52152336, z: 2.664535e-16}
+      rotation: {x: -0.017193865, y: -0.0022058326, z: 0.037375044, w: 0.99915093}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_marketing_r_hand01
+      parentName: bind_office_f_marketing_r_forearm01
+      position: {x: -0, y: 0.50092536, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

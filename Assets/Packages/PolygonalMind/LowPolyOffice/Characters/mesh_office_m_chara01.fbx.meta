@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 08a461955fe2451479862746f7aaf670
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: be_office_m_chara_head01
+    100002: be_office_m_chara_l_hand01
+    100004: be_office_m_chara_l_toes01
+    100006: be_office_m_chara_r_hand01
+    100008: be_office_m_chara_r_toes01
+    100010: bind_office_m_chara_head01
+    100012: bind_office_m_chara_hips01
+    100014: bind_office_m_chara_l_calf01
+    100016: bind_office_m_chara_l_foot01
+    100018: bind_office_m_chara_l_forearm01
+    100020: bind_office_m_chara_l_shoulder01
+    100022: bind_office_m_chara_l_thigh01
+    100024: bind_office_m_chara_l_upperarm01
+    100026: bind_office_m_chara_neck01
+    100028: bind_office_m_chara_r_calf01
+    100030: bind_office_m_chara_r_foot01
+    100032: bind_office_m_chara_r_forearm01
+    100034: bind_office_m_chara_r_shoulder01
+    100036: bind_office_m_chara_r_thigh01
+    100038: bind_office_m_chara_r_upperarm01
+    100040: bind_office_m_chara_spine_a01
+    100042: bind_office_m_chara_spine_b01
+    100044: bind_office_m_chara_spine_c01
+    100046: mesh_office_m_chara01
+    100048: //RootNode
+    400000: be_office_m_chara_head01
+    400002: be_office_m_chara_l_hand01
+    400004: be_office_m_chara_l_toes01
+    400006: be_office_m_chara_r_hand01
+    400008: be_office_m_chara_r_toes01
+    400010: bind_office_m_chara_head01
+    400012: bind_office_m_chara_hips01
+    400014: bind_office_m_chara_l_calf01
+    400016: bind_office_m_chara_l_foot01
+    400018: bind_office_m_chara_l_forearm01
+    400020: bind_office_m_chara_l_shoulder01
+    400022: bind_office_m_chara_l_thigh01
+    400024: bind_office_m_chara_l_upperarm01
+    400026: bind_office_m_chara_neck01
+    400028: bind_office_m_chara_r_calf01
+    400030: bind_office_m_chara_r_foot01
+    400032: bind_office_m_chara_r_forearm01
+    400034: bind_office_m_chara_r_shoulder01
+    400036: bind_office_m_chara_r_thigh01
+    400038: bind_office_m_chara_r_upperarm01
+    400040: bind_office_m_chara_spine_a01
+    400042: bind_office_m_chara_spine_b01
+    400044: bind_office_m_chara_spine_c01
+    400046: //RootNode
+    400048: mesh_office_m_chara01
+    2100000: character
+    4300000: mesh_office_m_chara01
+    9500000: //RootNode
+    13700000: mesh_office_m_chara01
+    2186277476908879412: ImportLogs
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3.75
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: bind_office_m_chara_hips01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_l_thigh01
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_r_thigh01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_l_calf01
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_r_calf01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_l_foot01
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_r_foot01
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_spine_a01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_spine_b01
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_neck01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_head01
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_l_shoulder01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_r_shoulder01
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_l_upperarm01
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_r_upperarm01
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_l_forearm01
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_r_forearm01
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_chara_spine_c01
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_m_chara_l_hand01
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_m_chara_r_hand01
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_m_chara_l_toes01
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_m_chara_r_toes01
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mesh_office_m_chara01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_hips01
+      parentName: mesh_office_m_chara01(Clone)
+      position: {x: -0, y: 1.3970658, z: 0.039095756}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_l_thigh01
+      parentName: bind_office_m_chara_hips01
+      position: {x: -0.15034561, y: -0.039581537, z: -0.0009430513}
+      rotation: {x: -0.0000073788597, y: 0.03246024, z: 0.999473, w: 0.00022720014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_l_calf01
+      parentName: bind_office_m_chara_l_thigh01
+      position: {x: -3.330669e-17, y: 0.6397564, z: 0}
+      rotation: {x: -0.0727477, y: 0.00014375201, z: -0.0019707954, w: 0.9973484}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_l_foot01
+      parentName: bind_office_m_chara_l_calf01
+      position: {x: 3.330669e-17, y: 0.63826853, z: 0}
+      rotation: {x: 0.50102985, y: -0.08754229, z: 0.051032536, w: 0.8594772}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_m_chara_l_toes01
+      parentName: bind_office_m_chara_l_foot01
+      position: {x: 0.03461322, y: 0.1785613, z: 0.027620729}
+      rotation: {x: 0.3039543, y: -0.13789828, z: 0.044514325, w: 0.941602}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_r_thigh01
+      parentName: bind_office_m_chara_hips01
+      position: {x: 0.15034561, y: -0.039581537, z: -0.0018388174}
+      rotation: {x: 0.000007664529, y: 0.03372257, z: 0.99943125, w: -0.00022715263}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_r_calf01
+      parentName: bind_office_m_chara_r_thigh01
+      position: {x: -0, y: 0.6398635, z: 0}
+      rotation: {x: -0.07555453, y: -0.00014939881, z: 0.0019717086, w: 0.99713975}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_r_foot01
+      parentName: bind_office_m_chara_r_calf01
+      position: {x: -3.330669e-17, y: 0.6384318, z: -4.163336e-18}
+      rotation: {x: 0.50241303, y: 0.08728634, z: -0.05107039, w: 0.85869324}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_m_chara_r_toes01
+      parentName: bind_office_m_chara_r_foot01
+      position: {x: -0.028410744, y: 0.17787464, z: 0.025237883}
+      rotation: {x: 0.30433062, y: 0.14255351, z: -0.046117738, w: 0.9407096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_spine_a01
+      parentName: bind_office_m_chara_hips01
+      position: {x: -0, y: 0.06977234, z: -0.004576962}
+      rotation: {x: -0.032746512, y: 0, z: -0, w: 0.9994637}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_spine_b01
+      parentName: bind_office_m_chara_spine_a01
+      position: {x: -0, y: 0.081575915, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_spine_c01
+      parentName: bind_office_m_chara_spine_b01
+      position: {x: -0, y: 0.09322969, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_l_shoulder01
+      parentName: bind_office_m_chara_spine_c01
+      position: {x: -0.080084555, y: 0.09310443, z: -0.0005906635}
+      rotation: {x: 0.5340615, y: -0.4629575, z: 0.53805584, w: 0.45928708}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_l_upperarm01
+      parentName: bind_office_m_chara_l_shoulder01
+      position: {x: -0, y: 0.16661124, z: 0}
+      rotation: {x: -0.052157685, y: -0.10048859, z: 0.0041467845, w: 0.9935615}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_l_forearm01
+      parentName: bind_office_m_chara_l_upperarm01
+      position: {x: -3.330669e-17, y: 0.5094167, z: 0}
+      rotation: {x: -0.019623771, y: 0.002920188, z: -0.0378105, w: 0.999088}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_m_chara_l_hand01
+      parentName: bind_office_m_chara_l_forearm01
+      position: {x: -3.330669e-17, y: 0.51270694, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_neck01
+      parentName: bind_office_m_chara_spine_c01
+      position: {x: -0, y: 0.10488345, z: 0.000000006020613}
+      rotation: {x: 0.032746505, y: -0, z: -0, w: 0.9994637}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_head01
+      parentName: bind_office_m_chara_neck01
+      position: {x: -0, y: 0.0064567565, z: 0.0006421409}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_m_chara_head01
+      parentName: bind_office_m_chara_head01
+      position: {x: -0, y: 0.47815287, z: 0.047553483}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_r_shoulder01
+      parentName: bind_office_m_chara_spine_c01
+      position: {x: 0.080084555, y: 0.09312821, z: -0.0009531371}
+      rotation: {x: -0.5327843, y: -0.46402246, z: 0.5391884, w: -0.45836657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_r_upperarm01
+      parentName: bind_office_m_chara_r_shoulder01
+      position: {x: 1.6653344e-17, y: 0.16661124, z: -2.664535e-16}
+      rotation: {x: -0.052131888, y: 0.09687686, z: -0.004191936, w: 0.99392134}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_chara_r_forearm01
+      parentName: bind_office_m_chara_r_upperarm01
+      position: {x: -3.330669e-17, y: 0.5093523, z: 0}
+      rotation: {x: -0.019115841, y: -0.0027159003, z: 0.037882354, w: 0.9990956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_m_chara_r_hand01
+      parentName: bind_office_m_chara_r_forearm01
+      position: {x: -0, y: 0.51248264, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_office_m_chara01
+      parentName: mesh_office_m_chara01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
