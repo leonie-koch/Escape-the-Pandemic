@@ -1,17 +1,11 @@
 # Escape the Pandamic
-Eine Escape the Room Anwendung für Zuhause! 
+An "Escape the room" mobile game application, developed with Unity.
 
-Spiele zusammen mit einem Freund, löse Rätsel und finde das Gegenmittel für eine Seuche, die sich auf der Welt ausgebreitet hat!
+Play together with a friend, solve puzzles and find the antidote for a virus that has spread across the world!
+The player can use the gyroscope and the touchscreen of his mobile phone to examine and interact with the game environment through movement and touch.
 
-Dieses Spiel wurde für Android entwickelt.
+Further functionality:
+* video chat function with Agora.io, a Real-Time Engagement (RTE) platform (“Agora Video SDK” for Unity)
+* high score board with “Dreamlo”, a free leader board
 
-Die APK findest du unter /EscapeThePandemic.apk
-
-
-Das Spiel kann nur zu zweit bzw. an zwei Geräten gespielt und getestet werden.
-
-Viel Spaß beim Spielen! :)
-
-
-![](Assets/Images/Readme.PNG)
-
+This game was developed for Android. 
